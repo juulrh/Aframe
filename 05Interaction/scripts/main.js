@@ -21,3 +21,4 @@ myOtherBox.addEventListener('mouseleave', function(){
 	rotationSpeed = 0.001;
 	console.log('mouse leave');
 });
+//opdr 5.4 , mouse leaven, box weer oude snelheid
